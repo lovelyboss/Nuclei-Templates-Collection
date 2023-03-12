@@ -200,3 +200,4 @@ https://github.com/trungkay2/Nuclei-template
 
 https://github.com/ExpLangcn/NucleiTP
 
+https://github.com/pojectdescovery/nuclei-templates
